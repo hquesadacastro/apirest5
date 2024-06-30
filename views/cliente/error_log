@@ -1,0 +1,4 @@
+[18-Jan-2024 22:55:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/fostdqec/demo.alpharest.pe/views/cliente/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/fostdqec/demo.alpharest.pe/views/cliente/index.php on line 1

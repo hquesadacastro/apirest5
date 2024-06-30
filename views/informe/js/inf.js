@@ -1,0 +1,1 @@
+$(function(){$("#informes").addClass("selected")});

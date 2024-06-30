@@ -1,0 +1,2 @@
+[17-Mar-2024 04:08:11 UTC] PHP Warning:  require_once(public/lib/print/num_letras.php): failed to open stream: No such file or directory in /home/fostdqec/demo.alpharest.pe/views/informe/finanza/imprimir/imp_cierre.php on line 2
+[17-Mar-2024 04:08:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'public/lib/print/num_letras.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/fostdqec/demo.alpharest.pe/views/informe/finanza/imprimir/imp_cierre.php on line 2

@@ -1,0 +1,4 @@
+[18-Jan-2024 23:20:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/fostdqec/demo.alpharest.pe/views/credito/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/fostdqec/demo.alpharest.pe/views/credito/index.php on line 7
