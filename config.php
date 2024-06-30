@@ -27,7 +27,7 @@ define('DB_USER', 'root');
 define('DB_PASS', '');
 define('DB_CHARSET', 'utf8');
 
-define('API_TOKEN', 'api token aqui');
+define('API_TOKEN', 'api token aqui para consultas reniec y sunat');
 //
 //path
 define('URL', 'https://192.168.1.20/apirest/');

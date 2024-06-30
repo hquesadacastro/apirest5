@@ -6,7 +6,7 @@
 	require 'culqi/lib/culqi.php';
 
 	// Configurar tu API Key y autenticación
-	/#$SECRET_KEY = "sk_test_zBWxHYk3Jv7k4cRm";
+	#$SECRET_KEY = "sk_test_zBWxHYk3Jv7k4cRm";
 	$SECRET_KEY = "sk_test_4673da110ee5e385";
 
 	$culqi = new Culqi\Culqi(array('api_key' => $SECRET_KEY));
